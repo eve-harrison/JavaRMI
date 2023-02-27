@@ -1,0 +1,1 @@
+java -cp c:\Users\User\Downloads\CT414-EveHarrison_19464796_RMI_AssignmentOne\src -Djava.rmi.server.codebase=file:/C:/Users/User/Downloads/CT414-EveHarrison_19464796_RMI_AssignmentOne/src/ -Djava.security.policy=server-windows.policy Client

@@ -1,0 +1,1 @@
+rmiregistry -J-Djava.rmi.server.codebase=file:/C:/Users/User/Downloads/CT414-EveHarrison_19464796_RMI_AssignmentOne/src
